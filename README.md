@@ -31,3 +31,4 @@ Enter water consumption data and view predictions on the dashboard.
 
  Author
 Keerthi
+https://smart-water-management-po7nanxjabxqesprvws4cx.streamlit.app/
